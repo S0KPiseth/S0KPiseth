@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Seth</h1>
-<img align="right" alt="kamen_rider_gaim" width="400" src="https://github.com/S0KPiseth/S0KPiseth/blob/main/kamen_rider_gaim_kachidoki_arms_by_robinosuke_d7gg0ae.gif" width=50% height=50%>
+<img align="right" alt="kamen_rider_gaim" width="400" src="https://github.com/S0KPiseth/S0KPiseth/blob/main/kamen_rider_gaim_kachidoki_arms_by_robinosuke_d7gg0ae.gif" width="150" height="280">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0kpiseth&label=Profile%20views&color=0e75b6&style=flat" alt="s0kpiseth" /> </p>
 
