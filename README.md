@@ -1,6 +1,6 @@
-[[!MasterHead](https://media1.tenor.com/m/kqlEI-zeRL4AAAAC/pixelart.gif)
+
 <h1 align="center">Hi 👋, I'm Seth</h1>
-<img align="right" alt="Kamen Rider Black" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57a94e56-0f4d-44f1-96e0-69617235e866/ddvy9l4-ac61e6a3-90fd-4808-a787-6d52c51c2872.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3YTk0ZTU2LTBmNGQtNDRmMS05NmUwLTY5NjE3MjM1ZTg2NlwvZGR2eTlsNC1hYzYxZTZhMy05MGZkLTQ4MDgtYTc4Ny02ZDUyYzUxYzI4NzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t4-UJJLdTbFcPgAE0sJ0tQ8odNe0b5yA23AgXa4Qn94)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0kpiseth&label=Profile%20views&color=0e75b6&style=flat" alt="s0kpiseth" /> </p>
 
 - 🔭 I’m currently working on **Python GUI application**
