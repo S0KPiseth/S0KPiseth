@@ -1,0 +1,28 @@
+name: Spotify - Recently Played
+on:
+  workflow_dispatch: # Triggered manually only
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository to save the file locally
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Generate Spotify metrics and output to a specific file
+      - name: Generate Spotify Recently Played Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotify-recently-played.svg # Save output to this specific file
+          token: NOT_NEEDED
+          base: repositories
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.RF_TK  }}
+          plugin_music_limit: 5
+
+      # Prevent further updates by skipping commits
+      - name: Skip File Updates
+        run: echo "File has been generated. No commit will be made."
