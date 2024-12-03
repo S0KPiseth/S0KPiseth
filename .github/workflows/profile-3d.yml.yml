@@ -17,8 +17,8 @@ jobs:
           USERNAME: S0KPiseth
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
           git add -A .
           git commit -m "generated"
-          git push
+          git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/S0KPiseth/S0KPiseth.git
